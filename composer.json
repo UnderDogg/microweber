@@ -11,14 +11,14 @@
     "laravel"
   ],
   "require": {
-    "laravel/framework": "5.0.22",
+    "laravel/framework": "~5.3",
     "composer/composer": "dev-master",
     "laravel/socialite": "2.0.12",
     "socialiteproviders/linkedin": "*",
     "illuminate/contracts": "5.0.*|5.1.*",
-    "vlucas/phpdotenv": "~1.0",
+    "vlucas/phpdotenv": "~2.4",
     "rcrowe/twigbridge": "*",
-    "graham-campbell/markdown": "~3.0",
+    "graham-campbell/markdown": "~7.0",
     "guzzlehttp/guzzle": "5.*",
     "composer/installers": "1.*",
     "keboola/csv": "1.1.*",
